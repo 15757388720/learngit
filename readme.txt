@@ -1,1 +1,1 @@
-第二次创建dev分支
+Creating a new branch is quick & simple.
